@@ -1,1 +1,1 @@
-# priject.git
+# project.git
